@@ -10,7 +10,7 @@
 
 ### Transformer
 
-- [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](papers/2026/Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model.md)
+- [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](papers/2026/Transfusion-Predict-the-Next-Token-and-Diffuse-Images-with-One-Multi-Modal-Model.md)
 
 ## 笔记内容包括
 
