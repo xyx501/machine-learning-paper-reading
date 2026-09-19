@@ -8,6 +8,10 @@
 
 - [LLMs Get Lost In Multi-turn Conversation](papers/2026/llms-get-lost-in-multi-turn-conversation.md)
 
+### Transformer
+
+- [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](papers/2026/Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model.md)
+
 ## 笔记内容包括
 
 每篇论文笔记通常包括：
