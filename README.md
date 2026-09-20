@@ -7,6 +7,7 @@
 ### Large Language Models
 
 - [LLMs Get Lost In Multi-turn Conversation](papers/2026/llms-get-lost-in-multi-turn-conversation.md)
+- [Test Time Compute of Process Reward Models via GeGenPRM](papers/2026/Test-Time-Compute-of-Process-Reward-Models-via-GeGenPRM.md)
 
 ### Transformer
 
