@@ -15,7 +15,8 @@
 
 ### Agent
 
--
+- [The Agentic Researcher A Practical Guide to AI Assisted Research in Mathematics and Machine Learning](The-Agentic-Researcher-A-Practical-Guide-to-AI-Assisted-Research-in-Mathematics-and-Machine-Learning.md)
+
 ## 笔记内容包括
 
 每篇论文笔记通常包括：
