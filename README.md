@@ -13,6 +13,9 @@
 
 - [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](papers/2026/Transfusion-Predict-the-Next-Token-and-Diffuse-Images-with-One-Multi-Modal-Model.md)
 
+### Agent
+
+-
 ## 笔记内容包括
 
 每篇论文笔记通常包括：
