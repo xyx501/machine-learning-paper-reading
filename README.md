@@ -17,6 +17,10 @@
 
 - [The Agentic Researcher A Practical Guide to AI Assisted Research in Mathematics and Machine Learning](The-Agentic-Researcher-A-Practical-Guide-to-AI-Assisted-Research-in-Mathematics-and-Machine-Learning.md)
 
+### VLA
+
+- [VLA Knows Its Limits Adaptive Execution Horizons for Robot Policies](VLA-Knows-Its-Limits-Adaptive-Execution-Horizons-for-Robot-Policies.md)
+
 ### Other
 
 - [From Curiosity to Caution Mitigating Reward Hacking for Best of N with Pessimism](From-Curiosity-to-Caution-Mitigating-Reward-Hacking-for-Best-of-N-with-Pessimism.md)
