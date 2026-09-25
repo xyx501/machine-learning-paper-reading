@@ -17,6 +17,10 @@
 
 - [The Agentic Researcher A Practical Guide to AI Assisted Research in Mathematics and Machine Learning](The-Agentic-Researcher-A-Practical-Guide-to-AI-Assisted-Research-in-Mathematics-and-Machine-Learning.md)
 
+### Computer Use Agent
+
+- [MIND2WEB Towards a Generalist Agent for the Web](MIND2WEB-Towards-a-Generalist-Agent-for-the-Web.md)
+
 ### VLA
 
 - [VLA Knows Its Limits Adaptive Execution Horizons for Robot Policies](VLA-Knows-Its-Limits-Adaptive-Execution-Horizons-for-Robot-Policies.md)
