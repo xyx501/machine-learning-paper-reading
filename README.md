@@ -20,6 +20,7 @@
 ### Computer Use Agent
 
 - [MIND2WEB Towards a Generalist Agent for the Web](MIND2WEB-Towards-a-Generalist-Agent-for-the-Web.md)
+- [SeeClick Harnessing GUI Grounding for Advanced Visual GUI Agents](SeeClick-Harnessing-GUI-Grounding-for-Advanced-Visual-GUI-Agents.md)
 
 ### VLA
 
