@@ -16,6 +16,7 @@
 ### Agent
 
 - [The Agentic Researcher A Practical Guide to AI Assisted Research in Mathematics and Machine Learning](The-Agentic-Researcher-A-Practical-Guide-to-AI-Assisted-Research-in-Mathematics-and-Machine-Learning.md)
+- [AgentRx Diagnosing AI Agent Failures from Execution Trajectories](AgentRx-Diagnosing-AI-Agent-Failures-from-Execution-Trajectories.md)
 
 ### Computer Use Agent
 
