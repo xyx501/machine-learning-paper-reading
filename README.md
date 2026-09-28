@@ -24,6 +24,7 @@
 - [SeeClick Harnessing GUI Grounding for Advanced Visual GUI Agents](SeeClick-Harnessing-GUI-Grounding-for-Advanced-Visual-GUI-Agents.md)
 - [WebArena A Realistic Web Environment for Building Autonomous Agents](WebArena-A-Realistic-Web-Environment-for-Building-Autonomous-Agents.md)
 - [OSWorld Benchmarking Multimodal Agents for Open Ended Task in Real Computer Environments](OSWorld-Benchmarking-Multimodal-Agents-for-Open-Ended-Tasks-in-Real-Computer-Environments.md)
+- [ShowUI One Vision Language Action Model for GUI Visual Agent](ShowUI-One-Vision-Language-Action-Model-for-GUI-Visual-Agent.md)
 
 ### VLA
 
