@@ -27,6 +27,7 @@
 - [ShowUI One Vision Language Action Model for GUI Visual Agent](ShowUI-One-Vision-Language-Action-Model-for-GUI-Visual-Agent.md)
 - [Visual Test Time Scaling for GUI Agent Grounding](Visual-Test-Time-Scaling-for-GUI-Agent-Grounding.md)
 - [Agent S An Open Agentic Framework That Uses Computers Like a Human](Agent-S-An-Open-Agentic-Framework-That-Uses-Computers-Like-a-Human.md)
+- [OS ATLAS A Foundation Action Model for Generalist GUI Agents](OS-ATLAS-A-Foundation-Action-Model-for-Generalist-GUI-Agents.md)
 
 ### VLA
 
