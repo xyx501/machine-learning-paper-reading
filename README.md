@@ -26,6 +26,7 @@
 - [OSWorld Benchmarking Multimodal Agents for Open Ended Task in Real Computer Environments](OSWorld-Benchmarking-Multimodal-Agents-for-Open-Ended-Tasks-in-Real-Computer-Environments.md)
 - [ShowUI One Vision Language Action Model for GUI Visual Agent](ShowUI-One-Vision-Language-Action-Model-for-GUI-Visual-Agent.md)
 - [Visual Test Time Scaling for GUI Agent Grounding](Visual-Test-Time-Scaling-for-GUI-Agent-Grounding.md)
+- [Agent S An Open Agentic Framework That Uses Computers Like a Human](Agent-S-An-Open-Agentic-Framework-That-Uses-Computers-Like-a-Human.md)
 
 ### VLA
 
