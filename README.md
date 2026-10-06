@@ -28,6 +28,7 @@
 - [Visual Test Time Scaling for GUI Agent Grounding](Visual-Test-Time-Scaling-for-GUI-Agent-Grounding.md)
 - [Agent S An Open Agentic Framework That Uses Computers Like a Human](Agent-S-An-Open-Agentic-Framework-That-Uses-Computers-Like-a-Human.md)
 - [OS ATLAS A Foundation Action Model for Generalist GUI Agents](OS-ATLAS-A-Foundation-Action-Model-for-Generalist-GUI-Agents.md)
+- [Navigating the Digital World as Humans Do Universal (Visual Grounding for GUI Agents](Navigating-the-Digital-World-as-Humans-Do-Universal-Visual-Grounding-for-GUI-Agents.md)
 
 ### VLA
 
